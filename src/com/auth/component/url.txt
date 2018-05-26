@@ -1,0 +1,4 @@
+https://bharatnet.csc.gov.in/ECSAsaGatewayServerV2/AsaGateway
+
+0001980000
+Auth@1234

@@ -1,0 +1,93 @@
+17-05-2018 12:23:38 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 12:23:39 com.auth.controller.ApiController 258 INFO : User:::sapan::Invalid user
+17-05-2018 12:24:20 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 12:24:20 com.auth.controller.ApiController 284 INFO : User Logged As ::AUTH_TUH
+17-05-2018 12:24:26 com.auth.controller.ApiController 443 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::AUTHBRIDGE-660620180517122420400::RequestTime::2018-05-17 12:24:20.399::API Name::2.0
+17-05-2018 12:24:26 com.auth.controller.ApiController 444 INFO : Response Meta Data Details::Staus Message:Authentication Success::ResponseTime::2018-05-17 12:24:26.061::Status Code:A200::ResTranscation id:AUTHBRIDGE-660620180517122420400
+17-05-2018 12:26:57 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 12:26:58 com.auth.controller.ApiController 284 INFO : User Logged As ::AUTH_TUH
+17-05-2018 12:26:58 com.auth.controller.ApiController 615 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::null::ReqTransactionId::AUTHBRIDGE-291320180517122657938::RequestTime::2018-05-17 12:26:57.938::API Name::2.0
+17-05-2018 12:26:58 com.auth.controller.ApiController 616 INFO : Response Meta Data Details::Staus Message:Invalid Uses Parameter values. Atlease one attribute should have value Y::ResponseTime::2018-05-17 12:26:58.405::Status Code:A217::ResTranscation id:
+17-05-2018 12:32:03 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 12:32:04 com.auth.controller.ApiController 284 INFO : User Logged As ::AUTH_TUH
+17-05-2018 12:32:05 com.auth.controller.ApiController 617 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::null::ReqTransactionId::AUTHBRIDGE-933720180517123203542::RequestTime::2018-05-17 12:32:03.500::API Name::2.0
+17-05-2018 12:32:05 com.auth.controller.ApiController 618 INFO : Response Meta Data Details::Staus Message:Invalid Uses Parameter values. Atlease one attribute should have value Y::ResponseTime::2018-05-17 12:32:05.155::Status Code:A217::ResTranscation id:
+17-05-2018 12:34:24 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 12:34:24 com.auth.controller.ApiController 284 INFO : User Logged As ::AUTH_TUH
+17-05-2018 12:34:24 com.auth.controller.ApiController 747 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::null::ReqTransactionId::AUTHBRIDGE-494320180517123424305::RequestTime::2018-05-17 12:34:24.305::API Name::2.0
+17-05-2018 12:34:24 com.auth.controller.ApiController 748 INFO : Response Meta Data Details::Staus Message:Please check the parameter::ResponseTime::2018-05-17 12:34:24.516::Status Code:A125::ResTranscation id:
+17-05-2018 12:35:48 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 12:35:49 com.auth.controller.ApiController 284 INFO : User Logged As ::AUTH_TUH
+17-05-2018 12:35:49 com.auth.controller.ApiController 607 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::null::ReqTransactionId::AUTHBRIDGE-771520180517123548824::RequestTime::2018-05-17 12:35:48.823::API Name::2.0
+17-05-2018 12:35:49 com.auth.controller.ApiController 608 INFO : Response Meta Data Details::Staus Message:Invalid uid::ResponseTime::2018-05-17 12:35:49.200::Status Code:998::ResTranscation id:
+17-05-2018 12:36:28 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 12:36:28 com.auth.controller.ApiController 258 INFO : User:::AUTH_TUH::Invalid user
+17-05-2018 12:42:11 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 12:42:11 com.auth.controller.ApiController 811 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::null::ReqTransactionId::::RequestTime::2018-05-17 12:42:11.902::API Name::2.0
+17-05-2018 12:42:11 com.auth.controller.ApiController 812 INFO : Response Meta Data Details::Staus Message:Bad Request! Please check your headers.::ResponseTime::2018-05-17 12:42:11.957::Status Code:A100::ResTranscation id:
+17-05-2018 12:57:14 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 12:57:15 com.auth.controller.ApiController 284 INFO : User Logged As ::AUTH_TUH
+17-05-2018 12:57:17 com.auth.controller.ApiController 445 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::AUTHBRIDGE-614020180517125714856::RequestTime::2018-05-17 12:57:14.856::API Name::2.0
+17-05-2018 12:57:17 com.auth.controller.ApiController 446 INFO : Response Meta Data Details::Staus Message:Authentication Success::ResponseTime::2018-05-17 12:57:17.318::Status Code:A200::ResTranscation id:AUTHBRIDGE-614020180517125714856
+17-05-2018 13:03:36 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:03:36 com.auth.controller.ApiController 284 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:03:36 com.auth.controller.ApiController 680 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::null::ReqTransactionId::AUTHBRIDGE-153720180517010336623::RequestTime::2018-05-17 13:03:36.623::API Name::2.0
+17-05-2018 13:03:36 com.auth.controller.ApiController 681 INFO : Response Meta Data Details::Staus Message:Mobile number is invalid::ResponseTime::2018-05-17 13:03:36.825::Status Code:A121::ResTranscation id:
+17-05-2018 13:03:50 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:03:51 com.auth.controller.ApiController 284 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:03:51 com.auth.controller.ApiController 464 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::AUTHBRIDGE-803120180517010350801::RequestTime::2018-05-17 13:03:50.801::API Name::2.0
+17-05-2018 13:03:51 com.auth.controller.ApiController 465 INFO : Response Meta Data Details::Staus Message:Pi attributes of demographic data did not match.::ResponseTime::2018-05-17 13:03:51.725::Status Code:100::ResTranscation id:AUTHBRIDGE-803120180517010350801
+17-05-2018 13:13:11 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:13:11 com.auth.controller.ApiController 284 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:13:12 com.auth.controller.ApiController 445 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::AUTHBRIDGE-990320180517011311412::RequestTime::2018-05-17 13:13:11.412::API Name::2.0
+17-05-2018 13:13:12 com.auth.controller.ApiController 446 INFO : Response Meta Data Details::Staus Message:Authentication Success::ResponseTime::2018-05-17 13:13:12.326::Status Code:A200::ResTranscation id:AUTHBRIDGE-990320180517011311412
+17-05-2018 13:14:15 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:14:15 com.auth.controller.ApiController 284 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:14:16 com.auth.controller.ApiController 464 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::AUTHBRIDGE-834620180517011415745::RequestTime::2018-05-17 13:14:15.745::API Name::2.0
+17-05-2018 13:14:16 com.auth.controller.ApiController 465 INFO : Response Meta Data Details::Staus Message:Pi attributes of demographic data did not match.::ResponseTime::2018-05-17 13:14:16.555::Status Code:100::ResTranscation id:AUTHBRIDGE-834620180517011415745
+17-05-2018 13:14:28 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:14:28 com.auth.controller.ApiController 284 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:14:29 com.auth.controller.ApiController 464 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::AUTHBRIDGE-555420180517011428304::RequestTime::2018-05-17 13:14:28.303::API Name::2.0
+17-05-2018 13:14:29 com.auth.controller.ApiController 465 INFO : Response Meta Data Details::Staus Message:Pa attributes of demographic data did not match.::ResponseTime::2018-05-17 13:14:29.227::Status Code:200::ResTranscation id:AUTHBRIDGE-555420180517011428304
+17-05-2018 13:14:39 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:14:39 com.auth.controller.ApiController 284 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:14:40 com.auth.controller.ApiController 464 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::AUTHBRIDGE-726820180517011439487::RequestTime::2018-05-17 13:14:39.487::API Name::2.0
+17-05-2018 13:14:40 com.auth.controller.ApiController 465 INFO : Response Meta Data Details::Staus Message:Pi attributes of demographic data did not match.::ResponseTime::2018-05-17 13:14:40.740::Status Code:100::ResTranscation id:AUTHBRIDGE-726820180517011439487
+17-05-2018 13:17:30 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:17:30 com.auth.controller.ApiController 258 INFO : User:::AUTH_TUH::Invalid user
+17-05-2018 13:22:12 com.auth.controller.ApiController 118 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:22:13 com.auth.controller.ApiController 284 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:22:13 com.auth.controller.ApiController 445 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::AUTHBRIDGE-315120180517012212967::RequestTime::2018-05-17 13:22:12.967::API Name::2.0
+17-05-2018 13:22:13 com.auth.controller.ApiController 446 INFO : Response Meta Data Details::Staus Message:Authentication Success::ResponseTime::2018-05-17 13:22:13.716::Status Code:A200::ResTranscation id:AUTHBRIDGE-315120180517012212967
+17-05-2018 13:22:23 com.auth.controller.OtpApiController 96 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:22:24 com.auth.controller.OtpApiController 250 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:22:25 com.auth.controller.OtpApiController 354 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::::RequestTime::2018-05-17 13:22:23.936::API Name::2.0
+17-05-2018 13:22:25 com.auth.controller.OtpApiController 355 INFO : Response Meta Data Details::Staus Message:OTP Genration Successfull::ResponseTime::2018-05-17 13:22:25.511::Status Code:A200::ResTranscation id:OTP:STGABRPL01:20180517012224522:7198073
+17-05-2018 13:23:36 com.auth.controller.OtpApiController 96 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:23:36 com.auth.controller.OtpApiController 250 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:23:37 com.auth.controller.OtpApiController 670 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::::RequestTime::2018-05-17 13:23:36.035::API Name::2.0
+17-05-2018 13:23:37 com.auth.controller.OtpApiController 671 INFO : Response Meta Data Details::Staus Message:Invalid OTP value.::ResponseTime::2018-05-17 13:23:37.906::Status Code:400::ResTranscation id:OTP:STGABRPL01:20180517012224522:7198073
+17-05-2018 13:23:52 com.auth.controller.OtpApiController 96 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:23:53 com.auth.controller.OtpApiController 250 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:23:53 com.auth.controller.OtpApiController 610 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::::RequestTime::2018-05-17 13:23:53.067::API Name::2.0
+17-05-2018 13:23:53 com.auth.controller.OtpApiController 611 INFO : Response Meta Data Details::Staus Message:Unique id is not valid::ResponseTime::2018-05-17 13:23:53.067::Status Code:A111::ResTranscation id:
+17-05-2018 13:24:09 com.auth.controller.OtpApiController 96 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:24:09 com.auth.controller.OtpApiController 250 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:24:10 com.auth.controller.OtpApiController 354 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::::RequestTime::2018-05-17 13:24:09.437::API Name::2.0
+17-05-2018 13:24:10 com.auth.controller.OtpApiController 355 INFO : Response Meta Data Details::Staus Message:OTP Genration Successfull::ResponseTime::2018-05-17 13:24:10.631::Status Code:A200::ResTranscation id:OTP:STGABRPL01:20180517012409786:9731900
+17-05-2018 13:24:57 com.auth.controller.OtpApiController 96 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:24:57 com.auth.controller.OtpApiController 250 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:24:58 com.auth.controller.OtpApiController 670 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::::RequestTime::2018-05-17 13:24:57.138::API Name::2.0
+17-05-2018 13:24:58 com.auth.controller.OtpApiController 671 INFO : Response Meta Data Details::Staus Message:Invalid OTP value.::ResponseTime::2018-05-17 13:24:58.519::Status Code:400::ResTranscation id:OTP:STGABRPL01:20180517012409786:9731900
+17-05-2018 13:25:10 com.auth.controller.OtpApiController 96 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:25:10 com.auth.controller.OtpApiController 250 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:25:11 com.auth.controller.OtpApiController 670 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::::RequestTime::2018-05-17 13:25:10.737::API Name::2.0
+17-05-2018 13:25:11 com.auth.controller.OtpApiController 671 INFO : Response Meta Data Details::Staus Message:Invalid OTP value.::ResponseTime::2018-05-17 13:25:11.661::Status Code:400::ResTranscation id:OTP:STGABRPL01:20180517012409786:9731900
+17-05-2018 13:25:49 com.auth.controller.OtpApiController 96 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:25:49 com.auth.controller.OtpApiController 250 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:25:50 com.auth.controller.OtpApiController 670 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::::RequestTime::2018-05-17 13:25:49.505::API Name::2.0
+17-05-2018 13:25:50 com.auth.controller.OtpApiController 671 INFO : Response Meta Data Details::Staus Message:Invalid OTP value.::ResponseTime::2018-05-17 13:25:50.720::Status Code:400::ResTranscation id:OTP:STGABRPL01:20180517012409786:9731900
+17-05-2018 13:32:16 com.auth.controller.OtpApiController 96 INFO : CONSENT : CONSENT TAKEN BY USER!
+17-05-2018 13:32:17 com.auth.controller.OtpApiController 250 INFO : User Logged As ::AUTH_TUH
+17-05-2018 13:32:18 com.auth.controller.OtpApiController 670 INFO : Request Meta Data Details:AUA Code::STGABRPL01::SUB AUA Code::STGABRPL01::ReqTransactionId::::RequestTime::2018-05-17 13:32:16.937::API Name::2.0
+17-05-2018 13:32:18 com.auth.controller.OtpApiController 671 INFO : Response Meta Data Details::Staus Message:Invalid OTP value.::ResponseTime::2018-05-17 13:32:18.393::Status Code:400::ResTranscation id:OTP:STGABRPL01:20180517012409786:9731900
